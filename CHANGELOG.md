@@ -1,45 +1,45 @@
-## [0.16.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.2...v0.16.3) (2021-09-20)
+## [0.21.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.21.1...v0.21.2) (2021-09-26)
 
 
 ### Bug Fixes
 
-* infoxicator user ([#253](https://github.com/EddieHubCommunity/LinkFree/issues/253)) ([bda6dcb](https://github.com/EddieHubCommunity/LinkFree/commit/bda6dcba11b94eb996a7ca61e66090234ec16da5))
+* links width ([#208](https://github.com/EddieHubCommunity/LinkFree/issues/208)) ([9f11c54](https://github.com/EddieHubCommunity/LinkFree/commit/9f11c54987212b67d37b57df9377b67686d2776f))
 
 
 
-## [0.16.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.1...v0.16.2) (2021-09-19)
-
-
-### Bug Fixes
-
-* avatar to .png url  ([#120](https://github.com/EddieHubCommunity/LinkFree/issues/120)) ([0bf8c2b](https://github.com/EddieHubCommunity/LinkFree/commit/0bf8c2b160b9f22b7f0bcb21ccd2637b65dea456))
-
-
-
-## [0.16.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.16.0...v0.16.1) (2021-09-19)
+## [0.21.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.21.0...v0.21.1) (2021-09-26)
 
 
 ### Bug Fixes
 
-* accessibility enhancements ([#25](https://github.com/EddieHubCommunity/LinkFree/issues/25)) ([f3b5d1f](https://github.com/EddieHubCommunity/LinkFree/commit/f3b5d1f2985d11d15c5b50e5fd0e99b98eb3ca8c))
+* Anirudh data ([#173](https://github.com/EddieHubCommunity/LinkFree/issues/173)) ([7829a36](https://github.com/EddieHubCommunity/LinkFree/commit/7829a36c3081033608872661759d4c207b6d8646))
 
 
 
-# [0.16.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.15.1...v0.16.0) (2021-09-17)
+# [0.21.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.20.1...v0.21.0) (2021-09-26)
 
 
 ### Features
 
-* center avatars on homepage  ([#215](https://github.com/EddieHubCommunity/LinkFree/issues/215)) ([82ced80](https://github.com/EddieHubCommunity/LinkFree/commit/82ced8075e1738c4aa4042530fbf466b6d49fbda)), closes [#144](https://github.com/EddieHubCommunity/LinkFree/issues/144) [#137](https://github.com/EddieHubCommunity/LinkFree/issues/137) [#107](https://github.com/EddieHubCommunity/LinkFree/issues/107) [#107](https://github.com/EddieHubCommunity/LinkFree/issues/107) [#137](https://github.com/EddieHubCommunity/LinkFree/issues/137) [#144](https://github.com/EddieHubCommunity/LinkFree/issues/144) [#144](https://github.com/EddieHubCommunity/LinkFree/issues/144) [#214](https://github.com/EddieHubCommunity/LinkFree/issues/214)
+* milestones ([#252](https://github.com/EddieHubCommunity/LinkFree/issues/252)) ([#254](https://github.com/EddieHubCommunity/LinkFree/issues/254)) ([f3c0a60](https://github.com/EddieHubCommunity/LinkFree/commit/f3c0a60ab3047d68759cc9e99bc69db68de6e2cd))
 
 
 
-## [0.15.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.15.0...v0.15.1) (2021-09-16)
+## [0.20.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.20.0...v0.20.1) (2021-09-24)
 
 
 ### Bug Fixes
 
-* resolve mismatch numbering in steps. ([#217](https://github.com/EddieHubCommunity/LinkFree/issues/217))  ([f54a208](https://github.com/EddieHubCommunity/LinkFree/commit/f54a2089b7ccf8a3acef571a2350430692bbccfe))
+* add niteshseram's data ([#307](https://github.com/EddieHubCommunity/LinkFree/issues/307)) ([a17c29e](https://github.com/EddieHubCommunity/LinkFree/commit/a17c29e76afb82330a48c40b97d4b2ebbff4cae5))
+
+
+
+# [0.20.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.19.2...v0.20.0) (2021-09-23)
+
+
+### Features
+
+* add Sejal-16 ([#301](https://github.com/EddieHubCommunity/LinkFree/issues/301)) ([35aa054](https://github.com/EddieHubCommunity/LinkFree/commit/35aa054e599b640359fd691e72ca2a2a706a96ef))
 
 
 
